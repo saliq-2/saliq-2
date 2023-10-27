@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saliq-2" alt="saliq-2" /></a> </p>
 
-- 🔭 I’m currently working on **creating a calendar with backend**
+- 🔭 I’m currently working on **Home Stay App**
 
 - 🌱 I’m currently learning **Flutter,python,sql.**
 
